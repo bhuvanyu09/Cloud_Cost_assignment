@@ -32,9 +32,9 @@
     "try:\n",
     "    aws_df = pd.read_csv('aws_line_items_12mo.csv')\n",
     "    gcp_df = pd.read_csv('gcp_billing_12mo.csv')\n",
-    "    print(\"✅ Datasets loaded successfully.\")\n",
+    "    print(\"Datasets loaded successfully.\")\n",
     "except FileNotFoundError:\n",
-    "    print(\"⚠️ Files not found. Please ensure CSVs are in the same directory.\")"
+    "    print(\"Files not found. Please ensure CSVs are in the same directory.\")"
    ]
   },
   {
@@ -338,4 +338,5 @@
  },
  "nbformat": 4,
  "nbformat_minor": 4
+
 }
