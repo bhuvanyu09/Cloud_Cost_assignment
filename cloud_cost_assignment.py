@@ -5,7 +5,7 @@
    "metadata": {},
    "source": [
     "# Data Engineering Assignment: Cloud Cost Intelligence\n",
-    "**Submitted by:** Senior Data Engineer Candidate\n",
+    "**Submitted by:** Bhuvanyu Geel\n",
     "\n",
     "This notebook covers Parts A through E of the assignment. It includes data profiling (Python), schema design, SQL queries, pipeline architecture, and FinOps anomaly detection."
    ]
@@ -340,3 +340,4 @@
  "nbformat_minor": 4
 
 }
+
